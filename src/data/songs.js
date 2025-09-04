@@ -1,6 +1,38 @@
 export const songs = [
-  { id: 1, title: "Song 1", artist: "Artist A", album: "Album X", duration: "3:45" },
-  { id: 2, title: "Song 2", artist: "Artist B", album: "Album Y", duration: "4:20" },
-  { id: 3, title: "Song 3", artist: "Artist C", album: "Album Z", duration: "3:30" },
-  { id: 4, title: "Song 4", artist: "Artist D", album: "Album W", duration: "4:00" },
+  { 
+    id: 1, 
+    title: "Dumbai", 
+    artist: "CA7RIEL & Paco Amoroso", 
+    album: "Baño Maria", 
+    duration: "2:28", 
+    cover: "/images/dumbai.jpg",
+    src: "/music/dumbai.mp3" 
+  },
+  { 
+    id: 2, 
+    title: "VYZEE", 
+    artist: "SOPHIE", 
+    album: "SOPHIE", 
+    duration: "3:22", 
+    cover: "/images/Sophie.webp",
+    src: "/music/vyzee.mp3" 
+  },
+  { 
+    id: 3, 
+    title: "Mi Fiesta", 
+    artist: "Bandalos Chinos", 
+    album: "Bach", 
+    duration: "3:12", 
+    cover: "/images/Bandaloschinos.jpg",
+    src: "/music/mi_fiesta.mp3" 
+  },
+  { 
+    id: 4, 
+    title: "Gnarly", 
+    artist: "KATSEYE", 
+    album: "Single", 
+    duration: "2:17", 
+    cover: "/images/gnarly.webp",
+    src: "/music/gnarly.mp3" 
+  },
 ];
